@@ -19,3 +19,7 @@
 | Method                 | `#FFB000` | `255 176 0`   | <img src="https://github.com/adamgraham/zigurous-theme/blob/master/img/%23FFB000.png" width="25" height="25"> 
 | Type                   | `#FF9020` | `255 144 32`  | <img src="https://github.com/adamgraham/zigurous-theme/blob/master/img/%23FF9020.png" width="25" height="25"> 
 | Class                  | `#A0FF20` | `160 255 32`  | <img src="https://github.com/adamgraham/zigurous-theme/blob/master/img/%23A0FF20.png" width="25" height="25"> 
+
+## Credits
+
+- Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) color scheme
