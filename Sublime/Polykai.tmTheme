@@ -14,17 +14,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#141818</string>
+				<string>#141818ff</string>
 				<key>caret</key>
-				<string>#F8F8F8</string>
+				<string>#f8f8f8ff</string>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#f8f8f8ff</string>
 				<key>invisibles</key>
-				<string>#808080</string>
+				<string>#808080ff</string>
 				<key>lineHighlight</key>
-				<string>#1E2424</string>
+				<string>#1e2424ff</string>
 				<key>selection</key>
-				<string>#3C4848</string>
+				<string>#3c4848ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#909090</string>
+				<string>#909090ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE080</string>
+				<string>#ffe080ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -58,7 +58,7 @@ constant.other.placeholder</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C080FF</string>
+				<string>#c080ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -67,11 +67,12 @@ constant.other.placeholder</string>
 			<key>scope</key>
 			<string>constant.language, constant.other.punctuation, 
 constant.other.color, 
-constant.other.symbol</string>
+constant.other.symbol, 
+entity.name.enum</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6080FF</string>
+				<string>#6080ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +84,7 @@ support.other.variable, support.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFB000</string>
+				<string>#ffb000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +97,7 @@ entity.name.tag, variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF0060</string>
+				<string>#ff0060ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +108,7 @@ entity.name.tag, variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9020</string>
+				<string>#ff9020ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,7 +122,7 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A0FF20</string>
+				<string>#a0ff20ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -134,7 +135,7 @@ constant.other</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFB000</string>
+				<string>#ffb000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,7 +148,7 @@ constant.other</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6080FF</string>
+				<string>#6080ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -158,9 +159,9 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#f8f8f8ff</string>
 				<key>background</key>
-				<string>#CC0000</string>
+				<string>#cc0000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +172,7 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#f8f8f8ff</string>
 				<key>fontStyle</key>
 				<string> italic               </string>
 			</dict>
@@ -184,7 +185,7 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#000000ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +196,7 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A0FF20</string>
+				<string>#a0ff20ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +207,7 @@ constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#40C4FF</string>
+				<string>#40c4ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -229,7 +230,7 @@ support.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#40C4FF</string>
+				<string>#40c4ffff</string>
 			</dict>
 		</dict>
 	</array>
