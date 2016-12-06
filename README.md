@@ -33,7 +33,6 @@
 - MonoDevelop
 - JetBrains
 - Sequel
-- Slack
 - Terminal
 - TextMate
 - Vim
