@@ -1,6 +1,6 @@
 # Polykai
 
-> A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) and [Sublime Text](https://www.sublimetext.com/).
+> A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Sublime Text](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/), and [Slack](https://slack.com/).
 
 ## Color Palette
 
@@ -23,7 +23,7 @@
 ## Credits
 
 - Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) color scheme
-- Sublime Text theme built with [TmTheme-Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai)
+- .tmTheme files built with [TmTheme-Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai)
 
 ## To Do
 
@@ -36,6 +36,5 @@
 - Terminal
 - TextMate
 - Vim
-- Visual Code
 - Visual Studio
 - Zsh
