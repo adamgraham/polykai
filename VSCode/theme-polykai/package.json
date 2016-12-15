@@ -1,0 +1,22 @@
+{
+    "name": "theme-polykai",
+    "displayName": "Polykai",
+    "description": "A dark color scheme for coding",
+    "version": "0.0.1",
+    "publisher": "http://adamgraham.io",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Polykai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Polykai.tmTheme"
+            }
+        ]
+    }
+}
