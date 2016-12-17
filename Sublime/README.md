@@ -2,10 +2,8 @@
 
 1. Open Sublime Text.
 2. Click the **Preferences** menu item on the top menu bar.
-3. Choose **Browse Packages**.
-4. Create a new folder called *Polykai Color Scheme*.
-5. Open the raw [color theme file](https://raw.githubusercontent.com/adamgraham/polykai/master/Sublime/Polykai.tmTheme).
-6. Right-click and select **Save As**.
-7. Save the file with the name *Polykai.tmTheme* into the folder you created.
-8. Click the **Preferences** menu item on the top menu bar.
-9. Choose **Color Scheme** > Polykai Color Scheme > Polykai.
+3. Choose **Browse Packages** - a folder should open.
+4. [Download](https://github.com/adamgraham/polykai/blob/master/Sublime/Polykai%20Color%20Scheme.zip?raw=true) the **Polykai Color Scheme** zip folder.
+5. Extract the zip into the Sublime **Packages** folder.
+6. Click the **Preferences** menu item on the top menu bar of Sublime Text.
+7. Choose **Color Scheme** > Polykai Color Scheme > Polykai.
