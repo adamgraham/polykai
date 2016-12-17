@@ -2,6 +2,8 @@
 
 > A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Sublime Text](https://www.sublimetext.com/), [VS Code](https://code.visualstudio.com/), and [Slack](https://slack.com/).
 
+<img src="https://github.com/adamgraham/polykai/blob/master/img/Polykai.png" width="600" height="470">
+
 ## Color Palette
 
 | Element                | Hex       | RGB           |  |
