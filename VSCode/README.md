@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "theme-polykai"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Installation
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Navigate to your **.vscode\extensions** folder.
+ - **Windows** `%USERPROFILE%\.vscode\extensions`
+ - **Mac** `~/.vscode/extensions`
+ - **Linux** `~/.vscode/extensions`
+2. **[Download](https://github.com/adamgraham/polykai/blob/master/VSCode/Polykai%20Color%20Theme.zip?raw=true)** the **Polykai Color Theme** zip folder.
+3. Extract the zip into your **.vscode\extensions** folder.
+4. Open **Visual Studio Code**.
+5. Click the **File** menu option on the top menu bar.
+6. Choose **Preferences > Color Theme**.
+7. Select **Polykai** from the list of themes.

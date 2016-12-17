@@ -29,13 +29,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Comment</string>
+			<string>Variable-Special</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>variable.function, variable.parameter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#909090ff</string>
+				<string>#f8f8f8ff</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -51,53 +53,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number</string>
+			<string>Comment</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.character,
-constant.other.placeholder</string>
+			<string>comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c080ffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Constant</string>
-			<key>scope</key>
-			<string>constant.language, constant.other.punctuation, 
-constant.other.color, 
-constant.other.symbol, 
-entity.name.enum</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#6080ffff</string>
+				<string>#909090ff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable,
-support.other.variable, support.constant</string>
+			<string>variable, support.other.variable, support.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#ffb000ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Keyword</string>
-			<key>scope</key>
-			<string>keyword,
-storage,
-entity.name.tag, variable.language</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ff0060ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -113,79 +86,46 @@ entity.name.tag, variable.language</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Class</string>
+			<string>Keyword</string>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type, 
-entity.other.inherited-class, 
-support.class, 
-constant.other</string>
+			<string>keyword, storage, entity.name.tag, variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a0ff20ff</string>
+				<string>#ff0060ff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library function</string>
+			<string>Number</string>
 			<key>scope</key>
-			<string></string>
+			<string>constant.numeric, constant.character, constant.other.placeholder</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#ffb000ff</string>
+				<string>#c080ffff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library constant</string>
+			<string>Constant</string>
 			<key>scope</key>
-			<string></string>
+			<string>constant.language, constant.other.punctuation, constant.other.color, constant.other.symbol, entity.name.enum</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#6080ffff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid</string>
+			<string>Class</string>
 			<key>scope</key>
-			<string>invalid</string>
+			<string>entity.name.class, entity.name.type, entity.other.inherited-class, support.class, constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f8f8f8ff</string>
-				<key>background</key>
-				<string>#cc0000ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Variable-Special</string>
-			<key>scope</key>
-			<string>variable.function, variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f8f8f8ff</string>
-				<key>fontStyle</key>
-				<string> italic               </string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Test</string>
-			<key>scope</key>
-			<string></string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#000000ff</string>
+				<string>#a0ff20ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,23 +154,24 @@ constant.other</string>
 			<key>name</key>
 			<string>Function-Special</string>
 			<key>scope</key>
-			<string></string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string> italic</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function-Special</string>
-			<key>scope</key>
-			<string>support.function, 
-support.type</string>
+			<string>support.function, support.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#40c4ffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f8f8f8ff</string>
+				<key>background</key>
+				<string>#cc0000ff</string>
 			</dict>
 		</dict>
 	</array>
@@ -239,10 +180,10 @@ support.type</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.polykai</string>
 	<key>author</key>
 	<string>Adam Graham</string>
 	<key>comment</key>
-	<string>http:&#x2f;&#x2f;www.polykai.com</string>
+	<string>http:&#x2f;&#x2f;polykai.com</string>
 </dict>
 </plist>
