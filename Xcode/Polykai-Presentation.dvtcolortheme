@@ -99,9 +99,9 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.376471 0.501961 1 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>1 0.690196 0 1</string>
+		<string>0.25098 0.768627 1 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>1 0.690196 0 1</string>
+		<string>0.25098 0.768627 1 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>1 0 0.376471 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -111,9 +111,9 @@
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>1 0.564706 0.12549 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.25098 0.768627 1 1</string>
+		<string>1 0.690196 0 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.25098 0.768627 1 1</string>
+		<string>1 0.690196 0 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>1 0 0.376471 1</string>
 		<key>xcode.syntax.number</key>
