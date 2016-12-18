@@ -32,7 +32,6 @@
 ## To Do
 
 - Atom
-- Coda
 - Emacs
 - MonoDevelop
 - JetBrains
