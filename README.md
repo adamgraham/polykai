@@ -28,6 +28,7 @@
 
 - Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) color scheme
 - TextMate (`.tmTheme`) files built with [TmTheme-Editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai)
+- Visual Studio (`.vssettings`) files built with [Studio Styles](https://studiostyl.es/schemes/polykai)
 
 ## To Do
 
