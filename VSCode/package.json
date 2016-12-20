@@ -1,7 +1,7 @@
 {
     "name": "theme-polykai",
     "displayName": "Polykai",
-    "description": "A dark color scheme for coding",
+    "description": "A dark color scheme inspired by Wimer Hazenberg's Monokai theme. http://polykai.com",
     "version": "0.0.1",
     "publisher": "Adam Graham",
     "engines": {
