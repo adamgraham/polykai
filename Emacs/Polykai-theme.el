@@ -1,4 +1,4 @@
-(deftheme Polykai "DOCSTRING for Polykai")
+(deftheme Polykai "A dark color scheme inspired by Wimer Hazenberg's Monokai theme. http://polykai.com")
   (custom-theme-set-faces 'Polykai
    '(default ((t (:foreground "#fdf4c1" :background "#282828" ))))
    '(cursor ((t (:background "#fdf4c1" ))))
