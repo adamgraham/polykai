@@ -33,7 +33,6 @@
 ## To Do
 
 - Atom
-- Emacs
 - MonoDevelop
 - JetBrains
 - Sequel
