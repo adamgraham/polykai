@@ -7,6 +7,7 @@
  - **[Visual Studio 2005](https://raw.githubusercontent.com/adamgraham/polykai/master/Visual%20Studio/polykai_vs2005.vssettings)**
 2. **Right-click** and select **Save As**.
 3. Save the file at any location of your choice.
+  - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
 4. Open **Visual Studio**.
 5. Click the **Tools** menu item on the top menu bar.
 6. Choose **Import and Export Settings**.
