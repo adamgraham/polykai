@@ -1,6 +1,6 @@
 # Installation
 
-1. Navigate to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+1. Navigate to your `~/Library/Developer/Xcode/UserData/FontAndColorThemes` directory.
  - If the `FontAndColorThemes` folder does not exist, create it.
 2. Open the color theme file on GitHub - **[Polykai.dvtcolortheme](https://raw.githubusercontent.com/adamgraham/polykai/master/Xcode/Polykai.dvtcolortheme)**.
  - There is also a presentation version (larger font size) - **[Polykai-Presentation.dvtcolortheme](https://raw.githubusercontent.com/adamgraham/polykai/master/Xcode/Polykai-Presentation.dvtcolortheme)**.
