@@ -40,5 +40,4 @@
 - Terminal
 - TextMate
 - Vim
-- Visual Studio
 - Zsh
