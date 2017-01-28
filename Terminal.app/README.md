@@ -1,6 +1,6 @@
 # Installation
 
-1. Open the color scheme file on GitHub - **[Polykai.terminal](https://github.com/adamgraham/polykai/blob/master/Terminal.app/Polykai.terminal)**.
+1. Open the color scheme file on GitHub - **[Polykai.terminal](https://raw.githubusercontent.com/adamgraham/polykai/master/Terminal.app/Polykai.terminal)**.
 2. **Right-click** and select **Save As**.
 3. Save the file at any location of your choice.
  - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
