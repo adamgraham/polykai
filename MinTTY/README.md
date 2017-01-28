@@ -8,7 +8,7 @@ Option A:
 
 Option B:
 
-1. Open the color scheme file on GitHub - **[Polykai.minttyrc](https://github.com/adamgraham/polykai/blob/master/MinTTY/Polykai.minttyrc)**.
+1. Open the color scheme file on GitHub - **[Polykai.minttyrc](https://raw.githubusercontent.com/adamgraham/polykai/master/MinTTY/Polykai.minttyrc)**.
 2. **Right-click** and select **Save As**.
 3. Save the file at any location of your choice.
  - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
