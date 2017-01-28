@@ -2,7 +2,7 @@
 
 Option A:
 
-1. Open the color scheme file on GitHub - **[Polykai.minttyrc](https://github.com/adamgraham/polykai/blob/master/MinTTY/Polykai.minttyrc)**.
+1. Open the color scheme file on GitHub - **[Polykai.minttyrc](https://raw.githubusercontent.com/adamgraham/polykai/master/MinTTY/Polykai.minttyrc)**.
 2. Copy the contents of the scheme file into your existing `.minttyrc` file.
   - Be sure to remove the existing color scheme from your file, if you were using one.
 
