@@ -1,6 +1,6 @@
 # Polykai
 
-> A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Sublime Text](https://www.sublimetext.com/), [Visual Studio](https://www.visualstudio.com/), [Visual Studio Code](https://code.visualstudio.com/), [Slack](https://slack.com/), and [Emacs](https://www.gnu.org/software/emacs/) (more to come).
+> A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Sublime Text](https://www.sublimetext.com/), [Visual Studio](https://www.visualstudio.com/), [Visual Studio Code](https://code.visualstudio.com/), [Slack](https://slack.com/), [Emacs](https://www.gnu.org/software/emacs/), [Terminal.app](http://www.apple.com/osx/apps), [iTerm2](https://www.iterm2.com/), and [MinTTY](https://mintty.github.io/) (more to come).
 
 ## Color Palette
 
@@ -36,7 +36,6 @@
 - MonoDevelop
 - JetBrains
 - Sequel
-- Terminal
 - TextMate
 - Vim
 - Zsh
