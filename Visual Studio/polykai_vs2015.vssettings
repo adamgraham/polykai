@@ -51,8 +51,8 @@
 							<Item Name="Script Comment" Foreground="0x00909090" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Identifier" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Keyword" Foreground="0x006000FF" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Script Number" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Script Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Number" Foreground="0x00FF80C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Operator" Foreground="0x00FFC440" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x0080E0FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute" Foreground="0x00FFC440" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Quotes" Foreground="0x0080E0FF" Background="0x02000000" BoldFont="No"/>
