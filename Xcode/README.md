@@ -10,5 +10,5 @@
 5. Open or restart Xcode.
 6. Click the **Xcode** menu item on the top menu bar.
 7. Choose **Preferences**.
-7. Click the **Fonts & Colors** tab.
-8. Select the **Polykai** theme from the side menu.
+8. Click the **Fonts & Colors** tab.
+9. Select the **Polykai** theme from the side menu.
