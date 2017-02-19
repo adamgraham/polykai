@@ -8,7 +8,7 @@
 5. Click the **Terminal** menu item on the top menu bar.
 6. Choose **Preferences**.
 7. Click the **Profiles** tab.
-8. Click the **"gear" icon** in the bottom left.
+8. Click the ***gear* icon** in the bottom left.
 9. Choose **Import**.
 10. Open the `.terminal` file you saved.
 11. Select **Polykai** in the side menu bar.
