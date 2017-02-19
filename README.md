@@ -30,6 +30,7 @@
 
 ## To Do
 
+- Alfred
 - Atom
 - JetBrains
 - Vim
