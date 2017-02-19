@@ -1,7 +1,7 @@
 # Installation
 
 1. Navigate to your `~/.emacs.d/themes` directory.
- - If the `themes` folder does not exist, create it.
+ - If the `themes` directory does not exist, create it.
 2. Open the color theme file on GitHub - **[Polykai-theme.el](https://raw.githubusercontent.com/adamgraham/polykai/master/Emacs/Polykai-theme.el)**.
 3. **Right-click** and select **Save As**.
 4. Save the file into the `themes` folder.
