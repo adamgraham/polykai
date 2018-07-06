@@ -29,22 +29,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable-Special</string>
-			<key>scope</key>
-			<string>variable.function, variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f8f8f8ff</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string, storage.modifier.import, storage.modifier.package, meta.tag.sgml.doctype.xml, meta.paragraph.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -55,40 +42,40 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>comment, entity.name.section.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#909090ff</string>
+				<string>#909090</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, support.constant</string>
+			<string>variable, variable.other.object, support.variable, support.type.property-name, support.type.vendored.property-name, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffb000ff</string>
+				<string>#FFB000</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Type</string>
 			<key>scope</key>
-			<string>constant.other</string>
+			<string>support.type, storage.type.generic.java, meta.definition.variable, meta.property-name, entity.other.attribute-name.id, entity.other.attribute-name.pseudo-element</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff9020ff</string>
+				<string>#FF9020</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword, storage, entity.name.tag, variable.language</string>
+			<string>keyword, storage, storage.type, entity.name.tag, meta.preprocessor, meta.tag, variable.language, punctuation.definition.tag, punctuation.definition.template-expression</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -99,7 +86,7 @@
 			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.character, constant.other.placeholder</string>
+			<string>constant.numeric, constant.character, constant.other.color, constant.other.placeholder, keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -110,55 +97,34 @@
 			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
-			<string>constant.language, constant.other.punctuation, constant.other.color, constant.other.symbol, entity.name.enum</string>
+			<string>constant.language, constant.other, constant.other.punctuation, constant.other.symbol, entity.name.enum,
+support.constant, variable.other.constant, entity.name.section.markdown, punctuation.definition.heading.markdown,</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6080ffff</string>
+				<string>#6080FF</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Class</string>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type, entity.other.inherited-class, support.class, constant.other</string>
+			<string>entity.name.class, entity.name.type, entity.other.attribute-name.class, entity.other.attribute-name.namespace, entity.other.inherited-class, support.class, support.type.swift, storage.type.java, variable.language.documentroot</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a0ff20ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Attribute</string>
-			<key>scope</key>
-			<string>entity.other.attribute-name</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#a0ff20ff</string>
+				<string>#A0FF20</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Function</string>
 			<key>scope</key>
-			<string>entity.name.function</string>
+			<string>entity.name.function, support.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#40c4ffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function-Special</string>
-			<key>scope</key>
-			<string>support.function, support.type</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#40c4ffff</string>
+				<string>#40C4FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,9 +135,20 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f8f8f8ff</string>
+				<string>#CC0000</string>
 				<key>background</key>
-				<string>#cc0000ff</string>
+				<string>#F8F8F8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Source</string>
+			<key>scope</key>
+			<string>text, source, support, meta, meta.brace, meta.brace.curly, meta.brace.round, punctuation.bracket, punctuation.terminator, variable.function, variable.other.readwrite, variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
 			</dict>
 		</dict>
 	</array>
