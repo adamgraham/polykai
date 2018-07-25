@@ -14,8 +14,8 @@
 | Comment                | `#909090` | `144 144 144` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23909090.png" width="25" height="25"> 
 | Foreground             | `#F8F8F8` | `248 248 248` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23F8F8F8.png" width="25" height="25"> 
 | String                 | `#FFE080` | `255 224 128` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FFE080.png" width="25" height="25"> 
-| Variable               | `#FFB000` | `255 176 0`   | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FFB000.png" width="25" height="25"> 
-| Struct                 | `#FF9020` | `255 144 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FF9020.png" width="25" height="25"> 
+| Property               | `#FFB000` | `255 176 0`   | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FFB000.png" width="25" height="25"> 
+| Type                   | `#FF9020` | `255 144 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FF9020.png" width="25" height="25"> 
 | Keyword                | `#FF0060` | `255 0 96`    | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FF0060.png" width="25" height="25"> 
 | Number                 | `#C080FF` | `192 128 255` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23C080FF.png" width="25" height="25"> 
 | Constant               | `#6080FF` | `96 128 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%236080FF.png" width="25" height="25"> 
