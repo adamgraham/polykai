@@ -1,9 +1,18 @@
 {
     "name": "theme-polykai",
     "displayName": "Polykai",
-    "description": "A dark color scheme inspired by Wimer Hazenberg's Monokai theme. http://polykai.com",
+    "description": "A dark color scheme inspired by Wimer Hazenberg's Monokai theme.",
+    "publisher": "adamgraham",
+    "author": "Adam Graham",
     "version": "1.0.0",
-    "publisher": "Adam Graham",
+    "homepage": "http://polykai.com/",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/adamgraham/polykai.git"
+    },
+    "bugs": {
+		"url": "https://github.com/adamgraham/polykai/issues"
+	},
     "engines": {
         "vscode": "^1.25.0"
     },
@@ -18,5 +27,8 @@
                 "path": "./themes/Polykai.tmTheme"
             }
         ]
-    }
+    },
+    "__metadata": {
+		"publisherDisplayName": "Adam Graham"
+	}
 }
