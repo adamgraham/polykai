@@ -24,7 +24,7 @@
 
 ## Credits
 
-- Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) color scheme
+- Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/) color scheme
 - Visual Studio (`.vssettings`) files built with [Studio Styles](https://studiostyl.es/schemes/polykai)
 
 ## To Do
