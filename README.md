@@ -26,9 +26,3 @@
 
 - Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/) color scheme
 - Visual Studio (`.vssettings`) files built with [Studio Styles](https://studiostyl.es/schemes/polykai)
-
-## To Do
-
-- Atom
-- JetBrains
-- Zsh
