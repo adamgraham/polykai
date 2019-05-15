@@ -115,7 +115,7 @@
 			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
-			<string>constant.other, entity.name.enum, entity.name.function.preprocessor, entity.name.variable.enum-member, markup.bold, markup.italic, support.constant, variable.other.constant</string>
+			<string>constant.other, entity.name.enum, entity.name.function.preprocessor, entity.name.variable.enum-member, support.constant, variable.other.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
