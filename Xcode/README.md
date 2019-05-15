@@ -9,7 +9,7 @@
 3. **Right-click** and select **Save As**.
 4. Save the file into the `FontAndColorThemes` folder.
     - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
-5. Open or restart Xcode.
+5. Open or restart **Xcode**.
 6. Click the **Preferences** menu item from the top menu bar.
-8. Click the **Fonts & Colors** tab.
-9. Select the **Polykai** theme from the side menu.
+7. Click the **Fonts & Colors** tab.
+8. Select the **Polykai** theme from the side menu.
