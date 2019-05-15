@@ -7,9 +7,8 @@
 4. Save the file into the `colors` directory.
     - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
 5. Add the following code to your `.vimrc` file:
-
-     ```
-     syntax on
-     color Polykai
-     ```
+```
+syntax on
+color Polykai
+```
 6. **Restart** Vim.
