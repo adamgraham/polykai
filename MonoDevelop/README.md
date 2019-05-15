@@ -5,7 +5,7 @@
 3. Save the file at any location of your choice.
     - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
 4. Open **MonoDevelop**.
-5. Click the **Tools** menu item on the top menu bar.
+5. Click the **Tools** menu item from the top menu bar.
 6. Choose **Options**.
 7. Select **Syntax Highlighting** on the side menu under the **Text Editor** category.
 8. Click the **Add** button.
