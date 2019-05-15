@@ -5,7 +5,7 @@
 3. Save the file at any location of your choice.
     - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
 4. Open **iTerm**.
-5. Click the **Preferences** menu item on the top menu bar.
+5. Click the **Preferences** menu item from the top menu bar.
 6. Click the **Profiles** tab.
 7. Select the profile in the left pane to which you would like to apply the color scheme.
 8. Click the **Colors** tab in the right pane.
