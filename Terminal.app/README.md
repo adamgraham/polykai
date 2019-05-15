@@ -6,9 +6,9 @@
     - *Note: If a `.txt` extension is added to the end of the file, it must be removed.*
 4. Open **Terminal.app**.
 5. Click the **Preferences** menu item from the top menu bar.
-7. Click the **Profiles** tab.
-8. Click the ***gear* icon** in the bottom left.
-9. Choose **Import**.
-10. Open the `.terminal` file you saved.
-11. Select **Polykai** in the side menu bar.
-12. Click the **Default** button.
+6. Click the **Profiles** tab.
+7. Click the ***gear* icon** in the bottom left.
+8. Choose **Import**.
+9. Open the `.terminal` file you saved.
+10. Select **Polykai** in the side menu bar.
+11. Click the **Default** button.
