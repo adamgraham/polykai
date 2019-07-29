@@ -1,6 +1,6 @@
 # Polykai
 
-> A dark color scheme for code editors inspired by Wimer Hazenberg's Monokai theme.
+> A dark color scheme for code editors inspired by Wimer Hazenberg's [Monokai](https://github.com/monokai) theme.
 
 <img src="https://github.com/adamgraham/polykai/blob/master/images/screenshot.png" width="900" height="684">
 
