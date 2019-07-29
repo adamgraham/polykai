@@ -4,6 +4,10 @@
 
 <img src="https://github.com/adamgraham/polykai/blob/master/images/screenshot.png" width="900" height="684">
 
+## Installation
+
+Instructions on how to install the color scheme can be found in the respective directory for the desired editor. Additional information can be found [here](https://github.com/adamgraham/polykai-vscode) for the Visual Studio Code extension.
+
 ## Color Palette
 
 | Element                | Hex       | RGB           |  |
@@ -21,10 +25,6 @@
 | Constant               | `#6080ff` | `96 128 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%236080ff.png" width="25" height="25"> 
 | Function               | `#40c4ff` | `64 196 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%2340c4ff.png" width="25" height="25"> 
 | Class                  | `#a0ff20` | `160 255 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23a0ff20.png" width="25" height="25"> 
-
-## Installation
-
-Instructions on how to install the color scheme can be found in the respective directory for the desired editor. Additional information can be found [here](https://github.com/adamgraham/polykai-vscode) for the Visual Studio Code extension.
 
 ## License
 ```
