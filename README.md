@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-Instructions on how to install the color scheme can be found in the respective directory for your desired editor. Additional information can be found [here](https://github.com/adamgraham/polykai-vscode) for the Visual Studio Code extension.
+Instructions on how to install the color scheme can be found in the respective directory for your desired editor. The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).
 
 ## Color Palette
 
