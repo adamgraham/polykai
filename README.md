@@ -4,10 +4,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/adamgraham/polykai/master/images/screenshot.png)
 
-## Getting Started
-
-Instructions on how to install the color scheme can be found in the respective directory for your desired editor. The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).
-
 ## Color Palette
 
 | Element                | Hex       | RGB           |  |
@@ -25,6 +21,25 @@ Instructions on how to install the color scheme can be found in the respective d
 | Constant               | `#6080ff` | `96 128 255`  | <img src="https://raw.githubusercontent.com/adamgraham/polykai/master/images/%236080ff.png" width="25" height="25"> 
 | Function               | `#40c4ff` | `64 196 255`  | <img src="https://raw.githubusercontent.com/adamgraham/polykai/master/images/%2340c4ff.png" width="25" height="25"> 
 | Class                  | `#a0ff20` | `160 255 32`  | <img src="https://raw.githubusercontent.com/adamgraham/polykai/master/images/%23a0ff20.png" width="25" height="25"> 
+
+## Getting Started
+
+Instructions on how to install the color scheme can be found in the respective directory for your desired editor. The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).
+
+- [Emacs](https://github.com/adamgraham/polykai/tree/master/Emacs)
+- [iTerm2](https://github.com/adamgraham/polykai/tree/master/iTerm2)
+- [JetBrains](https://github.com/adamgraham/polykai/tree/master/JetBrains)
+- [MinTTY](https://github.com/adamgraham/polykai/tree/master/MinTTY)
+- [MonoDevelop](https://github.com/adamgraham/polykai/tree/master/MonoDevelop)
+- [Sequel Pro](https://github.com/adamgraham/polykai/tree/master/Sequel%20Pro)
+- [Slack](https://github.com/adamgraham/polykai/tree/master/Slack)
+- [Sublime Text](https://github.com/adamgraham/polykai/tree/master/Sublime%20Text)
+- [Terminal.app](https://github.com/adamgraham/polykai/tree/master/Terminal.app)
+- [TextMate](https://github.com/adamgraham/polykai/tree/master/TextMate)
+- [Vim](https://github.com/adamgraham/polykai/tree/master/Vim)
+- [Visual Studio](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio)
+- [Visual Studio Code](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio%20Code)
+- [Xcode](https://github.com/adamgraham/polykai/tree/master/Xcode)
 
 ## License
 ```
