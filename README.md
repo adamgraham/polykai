@@ -1,31 +1,30 @@
 # Polykai
 
-> A dark color scheme for [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Sublime Text](https://www.sublimetext.com/), [TextMate](https://macromates.com/), [Visual Studio](https://www.visualstudio.com/), [Visual Studio Code](https://code.visualstudio.com/), [JetBrains](https://www.jetbrains.com/), [MonoDevelop](http://www.monodevelop.com/), [Slack](https://slack.com/), [Sequel Pro](https://www.sequelpro.com/), [Vim](http://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/), [Terminal.app](http://www.apple.com/osx/apps), [iTerm2](https://www.iterm2.com/), and [MinTTY](https://mintty.github.io/).
+> A dark color scheme for code editors inspired by Wimer Hazenberg's Monokai theme.
 
-<img src="https://github.com/adamgraham/polykai/blob/master/img/Polykai.png" width="900" height="684">
+<img src="https://github.com/adamgraham/polykai/blob/master/images/screenshot.png" width="900" height="684">
 
 ## Color Palette
 
 | Element                | Hex       | RGB           |  |
 |------------------------|-----------|---------------|-------|
-| Background             | `#141818` | `20 24 24`    | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23141818.png" width="25" height="25"> |
-| Current Line           | `#1E2424` | `30 36 36`    | <img src="https://github.com/adamgraham/polykai/blob/master/img/%231E2424.png" width="25" height="25"> 
-| Selection              | `#3C4848` | `60 72 72`    | <img src="https://github.com/adamgraham/polykai/blob/master/img/%233C4848.png" width="25" height="25"> 
-| Comment                | `#909090` | `144 144 144` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23909090.png" width="25" height="25"> 
-| Foreground             | `#F8F8F8` | `248 248 248` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23F8F8F8.png" width="25" height="25"> 
-| String                 | `#FFE080` | `255 224 128` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FFE080.png" width="25" height="25"> 
-| Property               | `#FFB000` | `255 176 0`   | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FFB000.png" width="25" height="25"> 
-| Type                   | `#FF9020` | `255 144 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FF9020.png" width="25" height="25"> 
-| Keyword                | `#FF0060` | `255 0 96`    | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23FF0060.png" width="25" height="25"> 
-| Number                 | `#C080FF` | `192 128 255` | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23C080FF.png" width="25" height="25"> 
-| Constant               | `#6080FF` | `96 128 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%236080FF.png" width="25" height="25"> 
-| Function               | `#40C4FF` | `64 196 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%2340C4FF.png" width="25" height="25"> 
-| Class                  | `#A0FF20` | `160 255 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/img/%23A0FF20.png" width="25" height="25"> 
+| Background             | `#141818` | `20 24 24`    | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23141818.png" width="25" height="25"> |
+| Current Line           | `#1e2424` | `30 36 36`    | <img src="https://github.com/adamgraham/polykai/blob/master/images/%231e2424.png" width="25" height="25"> 
+| Selection              | `#3c4848` | `60 72 72`    | <img src="https://github.com/adamgraham/polykai/blob/master/images/%233c4848.png" width="25" height="25"> 
+| Comment                | `#909090` | `144 144 144` | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23909090.png" width="25" height="25"> 
+| Foreground             | `#f8f8f8` | `248 248 248` | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23f8f8f8.png" width="25" height="25"> 
+| String                 | `#ffe080` | `255 224 128` | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23ffe080.png" width="25" height="25"> 
+| Property               | `#ffb000` | `255 176 0`   | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23ffb000.png" width="25" height="25"> 
+| Type                   | `#ff9020` | `255 144 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23ff9020.png" width="25" height="25"> 
+| Keyword                | `#ff0060` | `255 0 96`    | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23ff0060.png" width="25" height="25"> 
+| Number                 | `#c080ff` | `192 128 255` | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23c080ff.png" width="25" height="25"> 
+| Constant               | `#6080ff` | `96 128 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%236080ff.png" width="25" height="25"> 
+| Function               | `#40c4ff` | `64 196 255`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%2340c4ff.png" width="25" height="25"> 
+| Class                  | `#a0ff20` | `160 255 32`  | <img src="https://github.com/adamgraham/polykai/blob/master/images/%23a0ff20.png" width="25" height="25"> 
 
-## Credits
+## Installation
 
-- Color palette inspired by Wimer Hazenberg's [Monokai](http://www.monokai.nl/) color scheme
-- Visual Studio (`.vssettings`) files built with [Studio Styles](https://studiostyl.es/schemes/polykai)
+Instructions on how to install the color scheme can be found in the respective directory for the desired editor. Additional information can be found [here](https://github.com/adamgraham/polykai-vscode) for the Visual Studio Code extension.
 
 ## License
 ```
