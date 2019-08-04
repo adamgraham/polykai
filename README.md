@@ -24,22 +24,35 @@
 
 ## Getting Started
 
-Instructions on how to install the color scheme can be found in the respective directory for your desired editor. The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).
+Instructions on how to install the color scheme can be found in the respective directory for your desired editor. *The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).*
 
-- [Emacs](https://github.com/adamgraham/polykai/tree/master/Emacs)
-- [iTerm2](https://github.com/adamgraham/polykai/tree/master/iTerm2)
-- [JetBrains](https://github.com/adamgraham/polykai/tree/master/JetBrains)
-- [MinTTY](https://github.com/adamgraham/polykai/tree/master/MinTTY)
-- [MonoDevelop](https://github.com/adamgraham/polykai/tree/master/MonoDevelop)
-- [Sequel Pro](https://github.com/adamgraham/polykai/tree/master/Sequel%20Pro)
-- [Slack](https://github.com/adamgraham/polykai/tree/master/Slack)
-- [Sublime Text](https://github.com/adamgraham/polykai/tree/master/Sublime%20Text)
-- [Terminal.app](https://github.com/adamgraham/polykai/tree/master/Terminal.app)
-- [TextMate](https://github.com/adamgraham/polykai/tree/master/TextMate)
-- [Vim](https://github.com/adamgraham/polykai/tree/master/Vim)
-- [Visual Studio](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio)
-- [Visual Studio Code](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio%20Code)
-- [Xcode](https://github.com/adamgraham/polykai/tree/master/Xcode)
+- Editors
+  - [Emacs](https://github.com/adamgraham/polykai/tree/master/Emacs)
+  - [JetBrains](https://github.com/adamgraham/polykai/tree/master/JetBrains)
+  - [MonoDevelop](https://github.com/adamgraham/polykai/tree/master/MonoDevelop)
+  - [Sublime Text](https://github.com/adamgraham/polykai/tree/master/Sublime%20Text)
+  - [TextMate](https://github.com/adamgraham/polykai/tree/master/TextMate)
+  - [Vim](https://github.com/adamgraham/polykai/tree/master/Vim)
+  - [Visual Studio](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio)
+  - [Visual Studio Code](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio%20Code)
+  - [Xcode](https://github.com/adamgraham/polykai/tree/master/Xcode)
+- Terminals
+  - [Alacritty](https://github.com/adamgraham/polykai/tree/master/Alacritty)
+  - [iTerm2](https://github.com/adamgraham/polykai/tree/master/iTerm2)
+  - [Konsole](https://github.com/adamgraham/polykai/tree/master/Konsole)
+  - [Linux Console](https://github.com/adamgraham/polykai/tree/master/Linux%20Console)
+  - [MinTTY](https://github.com/adamgraham/polykai/tree/master/MinTTY)
+  - [PuTTY](https://github.com/adamgraham/polykai/tree/master/PuTTY)
+  - [Simple Terminal](https://github.com/adamgraham/polykai/tree/master/Simple%20Terminal)
+  - [Terminal.app](https://github.com/adamgraham/polykai/tree/master/Terminal.app)
+  - [Terminator](https://github.com/adamgraham/polykai/tree/master/Terminator)
+  - [Termite](https://github.com/adamgraham/polykai/tree/master/Termite)
+  - [Xresources](https://github.com/adamgraham/polykai/tree/master/Xresources)
+  - [Xshell](https://github.com/adamgraham/polykai/tree/master/Xshell)
+- Misc
+  - [Base16](https://github.com/adamgraham/polykai/tree/master/Base16)
+  - [Sequel Pro](https://github.com/adamgraham/polykai/tree/master/Sequel%20Pro)
+  - [Slack](https://github.com/adamgraham/polykai/tree/master/Slack)
 
 ## License
 ```
