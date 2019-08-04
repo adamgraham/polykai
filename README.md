@@ -26,7 +26,7 @@
 
 Instructions on how to install the color scheme can be found in the respective directory for your desired editor. *The Visual Studio Code extension is managed and published from [this repo](https://github.com/adamgraham/polykai-vscode).*
 
-- Editors
+- **Editors**
   - [Emacs](https://github.com/adamgraham/polykai/tree/master/Emacs)
   - [JetBrains](https://github.com/adamgraham/polykai/tree/master/JetBrains)
   - [MonoDevelop](https://github.com/adamgraham/polykai/tree/master/MonoDevelop)
@@ -36,7 +36,7 @@ Instructions on how to install the color scheme can be found in the respective d
   - [Visual Studio](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio)
   - [Visual Studio Code](https://github.com/adamgraham/polykai/tree/master/Visual%20Studio%20Code)
   - [Xcode](https://github.com/adamgraham/polykai/tree/master/Xcode)
-- Terminals
+- **Terminals**
   - [Alacritty](https://github.com/adamgraham/polykai/tree/master/Alacritty)
   - [iTerm2](https://github.com/adamgraham/polykai/tree/master/iTerm2)
   - [Konsole](https://github.com/adamgraham/polykai/tree/master/Konsole)
@@ -49,7 +49,7 @@ Instructions on how to install the color scheme can be found in the respective d
   - [Termite](https://github.com/adamgraham/polykai/tree/master/Termite)
   - [Xresources](https://github.com/adamgraham/polykai/tree/master/Xresources)
   - [Xshell](https://github.com/adamgraham/polykai/tree/master/Xshell)
-- Misc
+- **Misc**
   - [Base16](https://github.com/adamgraham/polykai/tree/master/Base16)
   - [Sequel Pro](https://github.com/adamgraham/polykai/tree/master/Sequel%20Pro)
   - [Slack](https://github.com/adamgraham/polykai/tree/master/Slack)
